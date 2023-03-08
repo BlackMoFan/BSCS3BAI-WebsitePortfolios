@@ -283,14 +283,14 @@ body .right {
   background: rgba(0, 0, 0, 0.11);
 }
 .app_inner label:nth-of-type(13) .app_inner__tab {
-  background: #1859c9;
+  background: #808080;
 }
 .app_inner label:nth-of-type(13) .app_inner__tab:hover {
   transition: all 0.2s;
-  background: #0929ac;
+  background: #767676;
 }
 .app_inner label:nth-of-type(13) .app_inner__tab .tab_left__image {
-  background: #5cdbe9;
+  background: #50C878;
 }
 .app_inner label:nth-of-type(13) .app_inner__tab .tab_left__image:hover {
   background: rgba(0, 0, 0, 0.11);
@@ -403,7 +403,7 @@ body .right {
   width: 100%;
   height: 80px;
   background: red;
-  cursor: pointer;
+  cursor: default;
   overflow: hidden;
   position: relative;
   transition: all 0.65s cubic-bezier(1, 0, 0.41, 1.01);
@@ -416,6 +416,8 @@ body .right {
   font-size: 18px;
 }
 .app_inner__tab h2 i {
+  z-index: 20;
+  cursor: pointer;
   position: absolute;
   right: 271px;
   opacity: 0.3;
@@ -486,6 +488,7 @@ body .right {
   height: 80px;
 }
 .app_inner__tab .tab_left__image i {
+  cursor: pointer;
   color: white;
   font-size: 40px;
   top: 18px;

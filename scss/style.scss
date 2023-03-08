@@ -287,13 +287,13 @@ body{
         }
       }
       &:nth-of-type(13) .app_inner__tab{
-        background:#1859c9;
+        background:#808080;
         &:hover{
           transition:all .2s;
-          background:darken(#0a2ebf,4%);
+          background: darken(#808080,4%);
         }
         .tab_left__image{
-          background:#5cdbe9;
+          background:#50C878;
           &:hover{
             background:rgba(0, 0, 0, 0.11);
           }
@@ -408,7 +408,7 @@ body{
       width:100%;
       height:80px;
       background:red;
-      cursor:pointer;
+      cursor:default;
       overflow:hidden;
       position:relative;
       transition:all .65s cubic-bezier(1.000, 0.000, 0.410, 1.010);
@@ -419,6 +419,8 @@ body{
         color: rgb(26, 28, 29);
         font-size: 18px;
         i{
+          z-index: 20;
+          cursor: pointer;
           position: absolute;
           right: 271px;
           opacity:0.3;
@@ -488,6 +490,7 @@ body{
           width: 80px;
           height: 80px;
           i{
+            cursor: pointer;
             color: white;
             font-size: 40px;
             top: 18px;

@@ -22,7 +22,7 @@ Instructions:
 2. Change directory (`cd`) to the cloned repo
 3. Open `~/assets/StudentProfileInfo.txt` and add your information.
 
-    Name: Jose P. Rizal<br />
+    Name: Rizal, Jose P.<br />
     Nickname: Baby<br />
     Future: Future Hero<br />
     Characteristics: Heroic, etc., or MBTI personality type<br />
@@ -37,3 +37,5 @@ Instructions:
         $ git push
         
      or you can also edit the file manually here in Github and click Commit changes
+
+5. For suggestions and/or corrections, DM me.
