@@ -21,13 +21,14 @@ Instructions:
     
 2. Change directory (`cd`) to the cloned repo
 3. Open `~/assets/StudentProfileInfo.txt` and edit your information.
-    Name: Jose P. Rizal
-    Nickname: Baby
-    Future: Future Hero
-    Characteristics: Heroic, etc., or MBTI personality type
-    Link to online website portfolio:  www.joserizal.vercel.app
-    Link to github account: www.github.com/Pepe
-    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #45b98f #45b98f #EA495F
+
+    Name: Jose P. Rizal<br />
+    Nickname: Baby<br />
+    Future: Future Hero<br />
+    Characteristics: Heroic, etc., or MBTI personality type<br />
+    Link to online website portfolio:  www.joserizal.vercel.app<br />
+    Link to github account: www.github.com/Pepe<br />
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #45b98f #45b98f #EA495F<br />
     
 4. Push your changes
 
