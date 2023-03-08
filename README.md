@@ -26,8 +26,8 @@ Instructions:
     Nickname: Baby<br />
     Future: Future Hero<br />
     Characteristics: Heroic, etc., or MBTI personality type<br />
-    Link to online website portfolio:  www.joserizal.vercel.app<br />
-    Link to github account: www.github.com/Pepe<br />
+    Link to online website portfolio:  https://joserizal.vercel.app<br />
+    Link to github account: https://github.com/Pepe<br />
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #45b98f #45b98f #EA495F<br />
     
 4. Push your changes
