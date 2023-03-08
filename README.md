@@ -1,1 +1,37 @@
-"# BSCS3BAI-WebsitePortfolios" 
+# BSCS-3B AI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Compilation+of+Personal+Website+Portfolios;Midterm+Requirement;Human+Computer+Interaction+(HCI))](https://git.io/typing-svg)
+
+---
+
+Instructions:
+1. Clone this repo
+
+      HTTPS
+
+        $ git clone https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios.git
+
+      SSH
+
+        $ git clone git@github.com:BlackMoFan/BSCS3BAI-WebsitePortfolios.git
+
+      Github CLI
+
+        $ gh repo clone BlackMoFan/BSCS3BAI-WebsitePortfolios
+    
+2. Change directory (`cd`) to the cloned repo
+3. Open `~/assets/StudentProfileInfo.txt` and edit your information.
+    Name: Jose P. Rizal
+    Nickname: Baby
+    Future: Future Hero
+    Characteristics: Heroic, etc., or MBTI personality type
+    Link to online website portfolio:  www.joserizal.vercel.app
+    Link to github account: www.github.com/Pepe
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #45b98f #45b98f #EA495F
+    
+4. Push your changes
+        $ git add .
+        $ git commit -m "Added my info - Your Name"
+        $ git push
+        
+     or you can also edit the file manually here in Github and click Commit changes
