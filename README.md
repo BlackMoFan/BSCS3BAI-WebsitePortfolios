@@ -30,6 +30,7 @@ Instructions:
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #45b98f #45b98f #EA495F
     
 4. Push your changes
+
         $ git add .
         $ git commit -m "Added my info - Your Name"
         $ git push
