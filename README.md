@@ -32,7 +32,7 @@ Instructions:
     
 4. Push your changes
 
-        $ git add .
+        $ git add assets/StudentProfileInfo.txt
         $ git commit -m "Added my info - Your Name"
         $ git push
         
