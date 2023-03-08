@@ -20,7 +20,7 @@ Instructions:
         $ gh repo clone BlackMoFan/BSCS3BAI-WebsitePortfolios
     
 2. Change directory (`cd`) to the cloned repo
-3. Open `~/assets/StudentProfileInfo.txt` and edit your information.
+3. Open `~/assets/StudentProfileInfo.txt` and add your information.
 
     Name: Jose P. Rizal<br />
     Nickname: Baby<br />
