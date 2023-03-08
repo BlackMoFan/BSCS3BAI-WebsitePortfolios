@@ -5,7 +5,7 @@
 ---
 
 Instructions:
-1. Clone this repo
+1. Clone this repo or fork it.
 
       HTTPS
 
