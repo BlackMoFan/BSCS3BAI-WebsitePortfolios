@@ -170,13 +170,13 @@ body{
         }
       }
       &:nth-of-type(4) .app_inner__tab{
-        background:#ea495f;
+        background:#009ed3;
         &:hover{
           transition:all .2s;
-          background:darken(#ea495f,4%);
+          background:darken(#009ed3,4%);
         }
         .tab_left__image{
-          background:#F4837D;
+          background:#8acade;
           &:hover{
             background:rgba(0, 0, 0, 0.11);
           }

@@ -166,14 +166,14 @@ body .right {
   background: rgba(0, 0, 0, 0.11);
 }
 .app_inner label:nth-of-type(4) .app_inner__tab {
-  background: #ea495f;
+  background: #009ed3;
 }
 .app_inner label:nth-of-type(4) .app_inner__tab:hover {
   transition: all 0.2s;
-  background: #e8374f;
+  background: #008fbf;
 }
 .app_inner label:nth-of-type(4) .app_inner__tab .tab_left__image {
-  background: #F4837D;
+  background: #8acade;
 }
 .app_inner label:nth-of-type(4) .app_inner__tab .tab_left__image:hover {
   background: rgba(0, 0, 0, 0.11);
