@@ -7,7 +7,14 @@ CLASS LIST BSCS 3B AI
   Cortez, Jazmin Olvido
 
   Damgo, Danny Lloyd Duller
-
+    Name: Damgo, Danny Lloyd Duller
+    Nickname:Bogs, Dan
+    Future: Mo
+    Characteristics: Joyful, Positive, Easy-to-get-along-with and Ambivert
+    Link to online website portfolio: https://damgo-act-5-jd1h.vercel.app/
+    Link to github account: https://github.com/Danielloyd9/DAMGO_ACT5.git
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be:#009ed3 #8acade
+    
   Deocaris, Mark Dominic Puetes
 
   Diaz, Neil Clarence Cordero
