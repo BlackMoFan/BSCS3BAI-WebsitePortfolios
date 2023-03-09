@@ -517,8 +517,8 @@ footer a {
 }
 
 // MEDIA QUERIES
-
-@media only screen and (max-width: 48em) {
+ /* Media Query for Mobile Devices */
+@media (max-width: 480px)  {
   body {
     // display: flex;
     margin: 0;
@@ -533,11 +533,11 @@ footer a {
         width:340px;
         margin:0 auto;
         transform:translateY(-50%);
-        // height: 25px;
+        height: 25px;
         position:absolute;
   
         right:20px;
-        top:50%;
+        top:45%;
         h1{
           color:white;
           font-size:28px;
@@ -570,6 +570,115 @@ footer a {
     -moz-perspective: 1000px;
   }
 }
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+  body {
+    // display: flex;
+    margin: 0;
+    flex-direction: column;
+
+    .left{
+      float:left;
+      width:50%;
+      height:100vh;
+      position:relative;
+      &_inner{
+        width:340px;
+        margin:0 auto;
+        transform:translateY(-50%);
+        height: 25px;
+        position:absolute;
+  
+        right:20px;
+        top:50%;
+        h1{
+          color:white;
+          font-size:28px;
+          margin:120px 0px 0px 0px
+        }
+        h2{
+          color:#abe8d2;
+          font-size:22px;
+          font-weight:200;
+          margin:0px 0px 0px 0px
+        }
+      }
+    }
+    .right{
+      float:right;
+      margin-left: 40px;
+      position: relative;
+      width:50%;
+      height:100vh;
+    }
+  }
+
+  .container {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    -webkit-perspective: 1000px;
+    -moz-perspective: 1000px;
+  }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px){
+  body {
+    // display: flex;
+    margin: 0;
+    flex-direction: row;
+
+    .left{
+      float:left;
+      width:50%;
+      height:100vh;
+      position:relative;
+      &_inner{
+        width:340px;
+        margin:0 auto;
+        transform:translateY(-50%);
+        height: 25px;
+        position:absolute;
+  
+        right:20px;
+        top:30%;
+        h1{
+          color:white;
+          font-size:28px;
+          margin:120px 0px 0px 0px
+        }
+        h2{
+          color:#abe8d2;
+          font-size:22px;
+          font-weight:200;
+          margin:0px 0px 0px 0px
+        }
+      }
+    }
+    .right{
+      float:right;
+      margin-left: 40px;
+      position: relative;
+      width:50%;
+      height:100vh;
+    }
+  }
+
+  .container {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    -webkit-perspective: 1000px;
+    -moz-perspective: 1000px;
+  }
+}
+
 
 // TECH STACK
 
