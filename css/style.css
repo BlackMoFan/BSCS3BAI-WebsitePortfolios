@@ -508,7 +508,7 @@ footer a {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 48em) {
   body {
     margin: 0;
     flex-direction: column;
@@ -543,50 +543,12 @@ footer a {
     width: 100%;
     height: 100vh;
   }
-}
-@media only screen and (max-width: 600px) and (min-width: 48em) { /* 48em = 768px */
-  body {
-    margin: 0;
-    flex-direction: column;
-  }
-  body .left {
-    width: 100%;
-    height: 100vh;
-    position: relative;
-  }
-  body .left_inner {
-    width: 340px;
-    margin: 0 auto;
-    transform: translateY(-50%);
-    position: absolute;
-    right: 20px;
-    top: 50%;
-  }
-  body .left_inner h1 {
-    color: white;
-    font-size: 28px;
-    margin: 120px 0px 0px 0px;
-  }
-  body .left_inner h2 {
-    color: #abe8d2;
-    font-size: 22px;
-    font-weight: 200;
-    margin: 0px 0px 0px 0px;
-  }
-  body .right {
-    margin-left: 40px;
-    position: relative;
-    width: 100%;
-    height: 100vh;
-  }
-}
-@media only screen and (max-width: 600px) {
   .container {
     width: 50px;
     height: 50px;
     position: absolute;
     top: 40px;
-    left: 50px;
+    left: 40px;
     -webkit-perspective: 1000px;
     -moz-perspective: 1000px;
   }
@@ -596,7 +558,7 @@ footer a {
   height: 20px;
   position: absolute;
   top: 40px;
-  left: 80px;
+  left: 70px;
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px;
 }
