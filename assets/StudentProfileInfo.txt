@@ -5,6 +5,14 @@ CLASS LIST BSCS 3B AI
   Burgos, Pio Lawrence Alcazar
 
   Cortez, Jazmin Olvido
+    
+    Name: Cortez, Jazmin Olvido
+    Nickname: Jaz, Lot
+    Future: ni Crush
+    Characteristics: INFP
+    Link to online website portfolio: https://jazminasdfghjkl-github-io.vercel.app/
+    Link to github account: https://github.com/jazminasdfghjkl/jazminasdfghjkl.github.io
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be:#FFEED8 #755139
 
   Damgo, Danny Lloyd Duller
     Name: Damgo, Danny Lloyd Duller
