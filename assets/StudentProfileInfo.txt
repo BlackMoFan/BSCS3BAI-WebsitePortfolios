@@ -58,7 +58,14 @@ CLASS LIST BSCS 3B AI
 
   Navarra, Allyn
 
-  Quintilla, Mayenel
+  Quintilla, Mayenel Ortiz
+      Name: Quintilla, Mayenel O.
+    	Nickname: Yen, Yin
+    	Future: abo
+    	Characteristics: INFP
+    	Link to online website portfolio: https://act5-quintilla.vercel.app/
+    	Link to github account: https://github.com/myqui
+    	Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #F7CAC9 #B3CEE5
 
   Santocildes, Hannah Sedon
 
