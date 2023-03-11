@@ -157,13 +157,13 @@ body{
         }
       }
       &:nth-of-type(3) .app_inner__tab{
-        background:#f4837d;
+        background:#FFEED8;
         &:hover{
           transition:all .2s;
-          background:darken(#f4837d,4%);
+          background:darken(#FFEED8,4%);
         }
         .tab_left__image{
-          background:#E4B794;
+          background:#755139;
           &:hover{
             background:rgba(0, 0, 0, 0.11);
           }
@@ -196,13 +196,13 @@ body{
         }
       }
       &:nth-of-type(6) .app_inner__tab{
-        background:#1859c9;
+        background:#e0ae57;
         &:hover{
           transition:all .2s;
-          background:darken(#0a2ebf,4%);
+          background:darken(#e0ae57,4%);
         }
         .tab_left__image{
-          background:#5cdbe9;
+          background:#50588A;
           &:hover{
             background:rgba(0, 0, 0, 0.11);
           }
