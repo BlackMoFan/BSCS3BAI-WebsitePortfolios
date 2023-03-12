@@ -73,7 +73,7 @@ CLASS LIST BSCS 3B AI
     Name: Yasol, Russel M.
     Nickname: Rus
     Future: Yesterday was history, tommorow is a mystery, thats why I dont know. - Confused Oogway Probably
-    Characteristics: INFJ
+    Characteristics: INTP
     Link to online website portfolio: https://r-amee.github.io/MyThreeJsPortfolio/
     Link to github account: https://github.com/r-amee
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #2E4F4F #0E8388
