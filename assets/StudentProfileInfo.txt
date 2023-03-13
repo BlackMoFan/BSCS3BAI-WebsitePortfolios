@@ -9,7 +9,7 @@ CLASS LIST BSCS 3B AI
 
     Name: Burgos, Pio Lawrence A.
     Nickname: Pi
-    Future: ??????
+    Future: Hacksterist
     Characteristics: Ambivert
     Link to online website portfolio: https://fastnetphbyrus.com/Burgos/
     Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
