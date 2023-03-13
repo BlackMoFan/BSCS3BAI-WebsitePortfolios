@@ -2,7 +2,18 @@ CLASS LIST BSCS 3B AI
 
   Bagsit, Eunice
 
+   https://fastnetphbyrus.com/Bagsit/
+   https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+
   Burgos, Pio Lawrence Alcazar
+
+    Name: Burgos, Pio Lawrence A.
+    Nickname: Pi
+    Future: ??????
+    Characteristics: Ambivert
+    Link to online website portfolio: https://fastnetphbyrus.com/Burgos/
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be:#0000FF #FFF
 
   Cortez, Jazmin Olvido
     
@@ -36,15 +47,58 @@ CLASS LIST BSCS 3B AI
 
   Erbite, Cryztal Mae EA
 
+    https://fastnetphbyrus.com/Erbite/
+    https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+
   Fille, Lourence Anthony Ganacias
+
+    Name: Fille, Lourence Anthony G.
+    Nickname: Rence, Kuys
+    Future: Future ni ano
+    Characteristics: INTJ
+    Link to online website portfolio: https://lrnc-portfolio.vercel.app/
+    Link to github account: https://github.com/lrnc24/Portfolio
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFA500 #0000FF
 
   Gison, Maria Joeanne Abantao
 
+    Name: Gison, Maria Joeanne A.
+    Nickname: Joe
+    Future: Future Trillionaire
+    Characteristics: INTJ
+    Link to online website portfolio: https://personal-portfolio-emjeigee.vercel.app/
+    Link to github account: https://github.com/emjeigee/Personal-Portfolio
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFDB58 #964B00
+
   Lapasaran, Dianne Ritz Austria
+
+    Name: Lapasaran, Dianne Ritz A.
+    Nickname: Che Che/Mors/Murat/Burache
+    Future: Future Virus
+    Characteristics: Introvert
+    Link to online website portfolio: https://fastnetphbyrus.com/Lapasaran/
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFC0CB #FFFF00
 
   Magan, Deserie Gania
 
+    Name: Magan, Deserie G.
+    Nickname: Dee
+    Future: Data Analyst
+    Characteristics: The Defender
+    Link to online website portfolio: #
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFC2F2 #5539DD
+
   Mana-ay, Sheryl Kate
+
+    Name: Mana-ay, Sheryl Kate O.
+    Nickname: Kate
+    Future: Web and Application Developer
+    Characteristics: Gwapa, Kind, and Approachable
+    Link to online website portfolio: https://kateportfolio.vercel.app/
+    Link to github account: https://github.com/katemanaay/Portfolio
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFC0CB #808080
 
   Moreno, Rod Lester Angusto
 
@@ -69,13 +123,47 @@ CLASS LIST BSCS 3B AI
 
   Santocildes, Hannah Sedon
 
+    Name: Santocildes, Hannah S.
+    Nickname: Han
+    Future: Cyber Security Analyst
+    Characteristics: INFJ-A
+    Link to online website portfolio: #
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #1F2638 #5978B0 
+
   Saracin, Melvin Sandaga
 
+    Name: Saracin, Melvin S.
+    Nickname: Cute
+    Future: Graphic Designer
+    Characteristics: Encouraging
+    Link to online website portfolio: https://fastnetphbyrus.com/Saracin/
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #C1E1C1 #808080
+
   Sondia, Kenji John
+
+    Name: Sondia, Kenji John
+    Nickname: Gwapo
+    Future: Web Developer/Software Engineer
+    Characteristics: ESFJ-A
+    Link to online website portfolio: #
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #5978B0 #1F2638
 
   Talamera, Charmaine Love Hiponia
 
   Tenan, Kim Jasper Tonete
+
+    Name: Tenan, Kim Jasper T.
+    Nickname: Kim
+    Future: Web Developer
+    Characteristics: Friendly, Observant, Positive, Risk-taker
+    Link to online website portfolio: https://fastnetphbyrus.com/Tenan/portfolio.html
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #0000FF #FFFF00
+
+  Russel M. Yasol
 
     Name: Yasol, Russel M.
     Nickname: Rus
