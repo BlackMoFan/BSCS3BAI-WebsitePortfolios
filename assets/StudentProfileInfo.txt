@@ -40,6 +40,8 @@ CLASS LIST BSCS 3B AI
     Nickname: Nico
     Future (?) (Future SEO Specialist/Future Data Analyst/Future Web Developer/Future Software Developer)
     Traits/MBTI type: INTP
+    Link to online website portfolio: https://website-mdd1299.vercel.app/
+    Link to github account: https://github.com/MDD1299/Website
     2 colors for your card in hci compilation: 
     Dark Blue #152238
     Cream #FFFDD0
@@ -55,8 +57,13 @@ CLASS LIST BSCS 3B AI
 
   Erbite, Cryztal Mae EA
 
-    https://fastnetphbyrus.com/Erbite/
-    https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Name: Erbite, Cryztal Mae EA
+    Nickname: Tal
+    Future: Future Web Designer
+    Characteristics: ESFP - T
+    Link to online website portfolio: https://fastnetphbyrus.com/Erbite/
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #91388D #91388D
 
   Fille, Lourence Anthony Ganacias
 
@@ -94,7 +101,7 @@ CLASS LIST BSCS 3B AI
     Nickname: Dee
     Future: Data Analyst
     Characteristics: The Defender
-    Link to online website portfolio: #
+    Link to online website portfolio: https://fastnetphbyrus.com/Magan/
     Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #FFC2F2 #5539DD
 
@@ -119,6 +126,14 @@ CLASS LIST BSCS 3B AI
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #808080 #50C878
 
   Navarra, Allyn
+
+    Name: Navarra, Allyn
+    Nickname: Amboy, Gwapo, Cute, Patay gwapo, Handsome, Handsome, Handsome
+    Future: Sexy Robot
+    Characteristics: Introvert and Handsome
+    Link to online website portfolio: #
+    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #F7CAC9 #B3CEE5
 
   Quintilla, Mayenel Ortiz
       Name: Quintilla, Mayenel O.
@@ -155,11 +170,17 @@ CLASS LIST BSCS 3B AI
     Nickname: Gwapo
     Future: Web Developer/Software Engineer
     Characteristics: ESFJ-A
-    Link to online website portfolio: #
-    Link to github account: https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios
+    Link to online website portfolio: https://kenjiijohn-github-io.vercel.app/
+    Link to github account: https://github.com/Kenjiijohn
     Two favorite colors or what colors (hexadecimal) you want your card in the site to be: #5978B0 #1F2638
 
   Talamera, Charmaine Love Hiponia
+
+    Full name: Charmaine Love Talamera 
+    Nickname: Lablab
+    Future (?) Future astronaut 🤣
+    Traits/MBTI type: Palakadlaw and buot gid ah🥹
+    2 colors for your card in hci compilation: F1DEC9 and C8B6A6 (color name or hexadecimal)
 
   Tenan, Kim Jasper Tonete
 
