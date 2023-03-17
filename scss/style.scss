@@ -130,14 +130,14 @@ body{
       display:block;
       width:100%;
       &:nth-of-type(1) .app_inner__tab{
-        background:#99b998;
+        background:#A020F0;
         &:hover{
           transition:all .2s;
-          background:darken(#99b998,4%);
+          background:darken(#A020F0,4%);
         }
         height:200px;
         .tab_left__image{
-          background:#EA495F;
+          background:#000;
           &:hover{
             background:rgba(0, 0, 0, 0.11);
           }

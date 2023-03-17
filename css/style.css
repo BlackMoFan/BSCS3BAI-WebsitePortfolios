@@ -126,15 +126,15 @@ body .right {
   width: 100%;
 }
 .app_inner label:nth-of-type(1) .app_inner__tab {
-  background: #99b998;
+  background: #A020F0;
   height: 200px;
 }
 .app_inner label:nth-of-type(1) .app_inner__tab:hover {
   transition: all 0.2s;
-  background: #8db18c;
+  background: #9710ec;
 }
 .app_inner label:nth-of-type(1) .app_inner__tab .tab_left__image {
-  background: #EA495F;
+  background: #000;
 }
 .app_inner label:nth-of-type(1) .app_inner__tab .tab_left__image:hover {
   background: rgba(0, 0, 0, 0.11);
