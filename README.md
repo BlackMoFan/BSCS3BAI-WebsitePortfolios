@@ -1,10 +1,12 @@
 # BSCS-3B AI
 
+## About
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Compilation+of+Personal+Website+Portfolios;Midterm+Requirement;Human+Computer+Interaction+(HCI))](https://git.io/typing-svg)
 
 ---
 
-Instructions:
+## 🚀 Instructions:
 1. Clone this repo or fork it.
 
       HTTPS
@@ -39,3 +41,9 @@ Instructions:
      or you can also edit the file manually here in Github and click Commit changes
 
 5. For suggestions and/or corrections, DM me.
+
+## 🔨 Contributors
+
+<a href="https://github.com/BlackMoFan/BSCS3BAI-WebsitePortfolios/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=blackmofan/BSCS3BAI-WebsitePortfolios" />
+</a>
